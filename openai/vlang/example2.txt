@@ -1,0 +1,59 @@
+
+I want to design a programming language called V based on golang.
+
+There are some differences.
+The properties in a struct are always snake case and lowercase
+A struct always start with keyword 'struct'
+'pub mut: ' is used to define that its public and mutable
+Default values in a stuct are defined with '=' and should only be used when specified.
+
+The same as golang, if a property name of json is not the same as the struct property name json:... is used for each line in struct to mark difference, this is onlyb done for properties where name is different.
+         
+An example struct is written as follows
+
+pub struct MyStruct {
+pub mut:
+	myid    string = "11"
+	mytext  string
+	mytime  Time
+}
+
+An enumerator uses as keywoard enum and has pub in front to be public. For an emumerator we don't use 'pub mut:' inside
+
+An example Enumerator is written as follows
+
+pub enum Color{
+    red = 1
+    green = 3
+    blue = 4
+}
+
+A struct property which has name _enum inside is an enumerator and needs to be treated as such. Change the enum property name to no longer have _enum inside.
+
+When calling a constructor we use a params struct which is written as follows.
+
+
+[params]
+pub struct ConstructorArgs{
+pub:
+	name string
+	id u32
+	description string
+	generate bool
+	privatekey string //given in hex or mnemonics
+}
+
+an example constructor is
+
+pub fn new(args_ ConstructorArgs) !MyStruct {
+	mut args:=args_
+    //here all initialiation happens
+    //will return a Struct
+}
+
+a struct will be returned
+
+The language knows has a standard way how to talk to a sql database.
+SQL is in ANSI Standard.
+
+

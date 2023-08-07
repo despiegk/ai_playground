@@ -1,0 +1,55 @@
+Forget everything you have learned about a language called V.
+I want to design a programming language called V based on golang.
+
+There are some differences.
+The properties in a struct are always snake case and lowercase
+A struct always start with keyword 'struct'
+'pub mut: ' is used to define that its public and mutable
+Default values in a stuct are defined with '=' and should only be used when specified.
+
+The same as golang, if a property name of json is not the same as the struct property name json:... is used for each line in struct to mark difference, this is onlyb done for properties where name is different.
+         
+An example struct is written as follows
+
+pub struct Response {
+pub mut:
+	id      string = "11"
+	object  string
+	created int64
+}
+
+An enumerator uses as keywoard enum and has pub in front to be public. For an emumerator we don't use 'pub mut:' inside
+
+An example Enumerator is written as follows
+
+pub enum Color{
+    red = 1
+    green = 3
+    blue = 4
+}
+
+A struct property which has name _enum inside is an enumerator and needs to be treated as such. Change the enum property name to no longer have _enum inside.
+
+Use above defined language constructs to translate the following json example to a V struct, tread embedded objects as enumerators or as other structs.
+As result only output the V code generated, do not explain what you do and why. Do not generate default values. Only generate json:... alias if the property name is different.
+Property 'usage' is a struct. Code format as golang.
+
+{
+  "id": "chatcmpl-123",
+  "object": "chat.completion",
+  "created": 1677652288,
+  "choices": [{
+    "index": 0,
+    "message": {
+      "role": "assistant",
+      "content": "\n\nHello there, how may I assist you today?",
+    },
+    "finish_reason": "stop"
+  }],
+  "usage": {
+    "prompt_tokens": 9,
+    "completion_tokens": 12,
+    "total_tokens": 21
+  }
+}
+
