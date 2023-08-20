@@ -8,7 +8,7 @@ just some tests with AI tools
 
 Through VIAPrize  (https://www.viaprize.org/) we have rewards available for work as specified in this playground
 
-- https://github.com/despiegk/ai_playground/issues/1 : reproducible environment for finetuning :  2500 USD
+- https://github.com/despiegk/ai_playground/issues/1 : reproducible environment for finetuning :  2000 USD
 - implemented usecase of oceans & jungle around mbwuini ruins: more info soon
 
 ## codescalers & ourworld are there to help
