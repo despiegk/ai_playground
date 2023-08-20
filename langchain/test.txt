@@ -1,0 +1,1678 @@
+THREEFOLD ARCHITECTURE
+March 2023
+
+PURPOSE OF OUR TECHNOLOGY
+Imagine a world where we can deliver a new sovereign internet system for
+less than 1 USD per month per person while consuming less than 1 watt of electricity.
+The following components complement the existing web3 ecosystem:
+●
+●
+
+●
+
+3Node
+3Bot
+Vlang
+
+any computer running our bare metal operating system and quantum safe storage system
+your personal assistant and gateway to the web2&3 world
+language as used inside the 3bot, easier than Golang, more efﬁcient, 25k github stars
+
+Our community has developed many applications required to deliver a true possible
+alternative to our current centralized internet with alternatives to WhatsApp, Zoom,
+Google Docs, YouTube ... We are working with some country governments to make this
+vision a reality.
+
+THIS IS THE INTERNET’S NATURAL PROGRESSION
+The Internet was always meant to be a peer-to-peer infrastructure.
+As large companies became proﬁt and data centric, centralization quickly became the norm..
+
+YOU
+Mobile Phone
+Computer
+Television
+Home Systems
+Gives access to
+your 3Bot.
+
+PRIVATE
+3BOT
+Your private Digital Assistant
+hosts your digital life.
+Owns your data , can be hosted in
+your home or any trusted location
+e.g. Threefold 3Node Network.
+Data can never be lost nor corrupted.
+
+UNLIMITED
+CAPABILITIES
+
+DECENTRALISED
+NETWORK OF 3NODE ‘s
+Network/Storage/Compute
+
+Unlimited access to information
+without manipulation. No
+exchange fees. No marketing
+costs. No-Lock In. All your
+required digital experiences
+owned by only you.
+
+Quantum Safe Storage,
+Overlay Network
+Distributed Compute
+Smart Contract for IT
+
+THREEFOLD = WEB3 + 3BOT + 3NODE
+PEER 2 PEER Scales Endlessly
+
+100% private
+& secure
+
+3BOT
+
+3BOT
+
+3BOT
+
+3Bot
+
+3BOT
+
+100% private
+& secure
+
+3BOT
+
+3Bot
+
+3BOT
+
+3Bot
+
+3BOT
+
+3Bot
+
+WEB3
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+THREEFOLD
+INTERNET
+
+THREEFOLD
+INTERNET
+
+THREEFOLD
+INTERNET
+
+THREEFOLD
+INTERNET
+
+THREEFOLD
+INTERNET
+
+THREEFOLD
+INTERNET
+
+THREEFOLD
+INTERNET
+
+THREEFOLD
+INTERNET
+
+compute-storage
+-network
+
+compute-storage
+-network
+
+compute-storage
+-network
+
+compute-storage
+-network
+
+compute-storage
+-network
+
+compute-storage
+-network
+
+compute-storage
+-network
+
+compute-storage
+-network
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+Resolve Bottlenecks
+100% private
+& secure
+
+100% private
+& secure
+
+PEER 2 PEER Scales Endlessly
+
+3BOT
+
+3BOT
+
+3Bot, Complements WEB3
+-
+
+3BOT
+
+3Bot
+
+Improve Storage Efﬁciency, Privacy and Reliability
+Can Store Petabytes and never gets corrupted.
+
+Personal private gateway to many web3 protocols and services.
+Seamless integration with smart contracts.
+Super safe (private sandboxes, can do transactions off chain)
+Vlang coding language, efﬁcient and ﬂexible
+
+Allow Seamless Deployment of any Blockchain or Web3 component.
+-
+
+Resolve Sovereignity
+
+WEB3
+
+-
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+THREEFOLD
+INTERNET
+
+THREEFOLD
+INTERNET
+
+THREEFOLD
+INTERNET
+
+THREEFOLD
+INTERNET
+
+compute-storage
+-network
+
+compute-storage
+-network
+
+compute-storage
+-network
+
+compute-storage
+-network
+
+3Node
+
+3Node
+
+Because of Integration with 3Nodes any validator or other
+web3 component can be deployed in minutes in all privacy and
+security with no scalability limitations.
+
+3Node
+
+GDPR by design = data owned by user.
+All data even blockchain can be in country. Full privacy.
+
+Ease of Development
+-
+
+Full JSON RPC API as well as own efﬁcient Vlang language.
+DSL’s allow people to develop complicated ﬂows in no time
+Integrated chat bot functionality
+Next phase: no more javascript not even in browser.
+
+DEVELOP for 3BOT or 3NODE
+ANY WEB3 EXPERIENCE CAN BE CREATED
+FASTER, PRIVATE & DECENTRALIZED
+DEVELOPERS
+
+3BOT
+
+3BOT
+
+3BOT
+
+3Bot
+
+ANY APP WHICH RUNS ON LINUX CAN RUN
+ON THE 3NODES (ZERO-OS)
+SYSTEM ADMINISTRATORS
+
+3BOT
+
+3Bot
+
+WEB 2 and WEB 3 LAYER
+3Node
+Compute
++Storage+Network
+Capacity
+
+3Node
+Compute
+3Node
++Storage+Network
+
+3Node
+Compute
+3Node
++Storage+Network
+
+3Node
+Compute
+3Node
++Storage+Network
+
+3Node
+Compute
+3Node
++Storage+Network
+
+3Node
+Compute
+3Node
++Storage+Network
+
+3Node
+Compute
+3Node
++Storage+Network
+
+Capacity
+
+Capacity
+
+Capacity
+
+Capacity
+
+Capacity
+
+Capacity
+
+3Node
+Compute
++Storage+Network
+Capacity
+
+DEVELOP for 3BOT or 3NODE
+ANY WEB3 EXPERIENCE CAN BE CREATED
+FASTER, PRIVATE & DECENTRALIZED
+DEVELOPERS
+
+3BOT
+
+3BOT
+
+3BOT
+
+3Bot
+
+ANY APP WHICH RUNS ON LINUX CAN RUN
+ON THE 3NODES (ZERO-OS)
+SYSTEM ADMINISTRATORS
+
+3BOT
+
+3Bot
+
+WEB 2 and WEB 3 LAYER
+3Node
+Compute
++Storage+Network
+Capacity
+
+3Node
+Compute
+3Node
++Storage+Network
+
+3Node
+Compute
+3Node
++Storage+Network
+
+3Node
+Compute
+3Node
++Storage+Network
+
+3Node
+Compute
+3Node
++Storage+Network
+
+3Node
+Compute
+3Node
++Storage+Network
+
+3Node
+Compute
+3Node
++Storage+Network
+
+Capacity
+
+Capacity
+
+Capacity
+
+Capacity
+
+Capacity
+
+Capacity
+
+3Node
+Compute
++Storage+Network
+Capacity
+
+THREEFOLD
+INFRASTRUCTURE
+LAYER
+
+3NODE’S
+
+A NEW WAY.
+A BETTER WAY.
+Similar to the transition from
+nuclear to solar energy,
+ThreeFold offers people an
+opportunity to provide the
+world with a safer, greener and
+more cost-efﬁcient storage
+and computer grid.
+An alternative to the world’s
+power-hungry and centralized
+data center model.
+
+NUCLEAR ENERGY
+
+SOLAR ENERGY
+
+CENTRALIZED
+DATA CENTER
+
+DECENTRALIZED
+DATA CENTER
+
+COMPARE WITH ELECTRICITY PRODUCTION, FROM CENTRALIZED TO DECENTRALIZED
+
+USABLE KWATT/H
+
+CENTRALIZED
+
+DECENTRALIZED
+
+USABLE CLOUD:
+COMPUTE, STORAGE AND NETWORK
+CENTRALIZED CLOUD
+PRODUCTION: DATACENTER
+
+DECENTRALISED CLOUD
+PRODUCTION: THREEFOLD
+
+AS EASY AS USING ELECTRICITY
+FROM THE ELECTRICITY GRID
+‘PLUG AND PLAY’
+Connect it to power supply
+and internet
+
+GENERATE
+COMPUTE+STORAGE+NETWORK CAPACITY
+More reliable, cost effective & green.
+INTERNET
+CONNECTION
+
+POWER
+OUTLET
+
+NETWORK, COMPUTE & STORAGE SERVER
+Enabled by Zero-OS
+
+GLOBAL EXPANSION: INTERNET of INTERNETS CONCEPT.
+Regional Internet 1
+
+Regional Internet 2
+
+Regional Internet …
+
+Local CHI
+
+Local CHI
+
+Local CHI
+
+Reserve currency TFT
+Local CHI
+
+Regional Internet N
+
+THREEFOLD INTERNET 2.0
+THE LAYER 0 INTERNET INFRASTRUCTURE
+
+for WEB2, WEB3, Blockchain, IoT, Metaverse, ...
+
+SOVEREIGN
+
+PRIVATE
+
+AUTONOMOUS
+
+DECENTRALIZED
+
+Our local
+infrastructure
+ensures data locality.
+
+Our system allows
+you to entirely own
+your data.
+
+It is self-healing and
+self-driving. A hassle
+free model.
+
+The system is owned by
+the people and is for
+everyone.
+
+COST
+EFFICIENT
+It has reduced costs
+and is affordable to
+everyone.
+
+COMPATIBLE
+
+SECURE
+
+All that runs on Linux
+today can run on our
+open system.
+
+The system is
+immutable and is
+blockchain based.
+
+ENDLESSLY
+SCALABLE
+The system can seamlessly
+and continuously grow on
+demand.
+
+STEADILY
+GROWING
+https://dashboard.grid.tf/explorer/statistics
+
++2600
+NODES DEPLOYED
+
++60
+COUNTRIES
+
++30.000.000 GB
+CAPACITY GENERATED
+
+IT WORLD FORGOT HOW TO USE HARDWARE CAPABILITIES
+30 years ago:
+Commodore 64
+
+●
+●
+●
+
+Today:
+Macbook Pro
+
+Hardware improved 10,000 times
+But, user features and performance improvement improved < 10 times
+Why?
+○
+○
+○
+○
+
+Education: Too influenced by IT vendors, too many abstraction layers
+Large IT companies: Acquisition strategy forces them to integrate = complex layers
+IT startups: Painkiller approach pays off
+It’s easier to build layers on top of other layers instead of rewriting
+
+OVERLY COMPLEX
+
+Abstraction Layers Compound Complexity
+
+Docker
+Host (VM)
+
+Web App
+
+OC
+
+Volume Driver (VM)
+File System (OS)
+
+...
+
+TO
+
+100s of
+Expensive
+Context
+Switches
+
+Network Layer
+Storage Layer
+Network (VM)
+File System
+Volume Driver (VM)
+Volume Driver (KVM)
+File System (OS)
+
+...
+
+File System (SDN)
+Volume Driver (SDN)
+
+DB App
+
+Kernel Mode
+
+Network Layer
+Storage Layer
+Network (VM)
+File System
+Volume Driver (KVM)
+
+SDN
+Layer
+Host
+OS
+
+X
+E
+L
+P
+OM
+
+User Mode
+
+⇒
+
+Docker
+Container
+
+...
+
+Too many abstraction layers
+MEANS
+loss in efﬁciency &
+performance
+MEANS
+increased cost of
+management and scalability
+of technology.
+
+File System (SDN)
+Volume Driver (SDN)
+...
+
+ZERO OS
+Our efﬁcient, green and
+secure operating system.
+Our Zero-OS software powers our
+decentralization movement. It allows
+anyone to provide Internet capacity for
+everyone, everywhere. This allows for a
+self healing and self driving ultra reliable
+internet infrastructure, owned by all of
+us.
+
+QUANTUM SAFE STORAGE
+PLUGS INTO ANY INTERFACE
+QS File System plugs into anything that needs
+storage capacity e.g. IPFS, 3Bot, S3, FTP, HTTP, …
+Plans to integrate better in Web3 ecosystem.
+
+PEER-2-PEER
+No centralized services in the middle, every person
+Through his/her 3Bot has full control over where the data
+is. The data is 100% private per person.
+
+ALWAYS CONSISTENT, AUTO RECOVERY
+Storage layer detects data corruption and recover
+automatically. Data is stored on top of 3Nodes using an
+advanced dispersal mechanism (not replication).
+
+QUANTUM SAFE
+Not even a quantum computer can hack the data.
+There are no fragments on a shared medium like a
+blockchain. All is fully dispersed in such a way that
+data can never be lost nor corrupted.
+
+OUR PLANET POSITIVE 3NODE SOFTWARE COMPONENTS
+INTERNET REMADE: Compute, Storage & Network Layer
+
+QUANTUM
+SAFE STORAGE
+
+PEER2PEER COMPUTE
+ZERO-OS
+
+PLANETARY
+NETWORK
+
+Upto 10x more efﬁcient
+
+Unique Internally Developed
+Operating System
+
+P2P end2end encrypted
+Overlay Network
+
+Minimized Attack Surface
+
+Planet Global IP
+Strongly Authenticated
+
+Store Zetta Bytes of data
+so safe that even a quantum
+computer can not break it
+Unbreakable Storage
+
+Most Secure & Efﬁcient
+Utilization of Server Hardware
+
+THREEFOLD
+TWIN
+LAYER
+
+3BOT’S
+
+Massive data centers and server farms
+interconnected by high speed ﬁber links, and
+owned by few organizations in the world.
+
+GOOGLE
+
+FACEBOOK
+
+cli
+
+en
+
+ts
+
+cli
+
+UBER
+
+en
+
+er
+
+ve
+r
+
+ts
+
+er
+
+ve
+r
+
+YOU EXIST 100 TIMES AND BECAME A PRODUCT, SUPER INEFFICIENT
+
+cli
+
+en
+
+ts
+
+er
+
+ve
+r
+
+CURRENT WEB3 ARCHITECTURE
+
+browser is now
+operating system
+
+API GATEWAY
+INTERNET2
+API GATEWAY 1
+
+DATA
+SHARDED
+& REPLICATED
+
+Blockchain 1
+
+Blockchain 2
+
+Blockchain 3
+
+BACK TO THE PAST
+THE INTERNET HOW IT WAS INTENDED
+The Internet was meant to be a peer-to-peer infrastructure with us in the center of our data and digital lifes
+
+WEB 1.0 & 2.0
+
+WEB 3.0
+
+CENTRALIZED DATA
+
+SHARED DATA
+
+●
+●
+●
+●
+●
+●
+●
+
+Star/Pyramid systems¯
+People driven.
+Way too complex.
+Centralized Data
+Often Power Hungry
+Can Be Slow & Unscalable
+Expensive
+
+perfect for decentralised ﬁnance,
+NFT, smart contracts, ledger,
+logistics, …
+Sometimes not centralized or sovereign
+enough. Hard to scale & make private.
+
+WEB 3.0 + 3BOT
+
+CONSENSUS & PEER2PEER
+●
+●
+●
+●
+●
+●
+●
+
+secure & private
+green (+3x power savings)
+unlimited scalable
+self healing
+more cost effective
+ultra reliable
+sovereign & decentralized
+
+THIS IS THE INTERNET’S NATURAL PROGRESSION
+The Internet was always meant to be a peer-to-peer infrastructure.
+As large companies became proﬁt and data centric, centralization quickly became the norm..
+
+YOU
+Mobile Phone
+Computer
+Television
+Home Systems
+Gives access to
+your 3Bot.
+
+PRIVATE
+3BOT
+Your private Digital Assistent
+hosts your digital life.
+Owns your data , can be hosted in
+your home or any trusted location
+e.g. Threefold 3Node Network.
+Data can never be lost nor corrupted.
+
+UNLIMITED
+CAPABILITIES
+
+DECENTRALISED
+NETWORK OF 3NODE ‘s
+Network/Storage/Compute
+
+Unlimited access to information
+without manipulation. No
+exchange fees. No marketing
+costs. No-Lock In. All your
+required digital experiences
+owned by only you.
+
+Quantum Safe Storage,
+Overlay Network
+Distributed Compute
+Smart Contract for IT
+
+3BOT + WEB3 GOALS
+●
+
+●
+●
+
+●
+
+●
+●
+
+●
+
+Compatible with many Web 2.0 and Web 3.0 Protocols and Interfaces
+○
+With Many Interfaces
+○
+At start: Ethereum, Stellar, ThreeFold, Nostr, IPFS, BTC, BTC Lightening
+Atomic Swap Support: for Stellar, TFT, BTC, Ethereum based Chains
+3x faster development efﬁciency should be possible.
+○
+Connected to all major known protocols in easy wat
+○
+DSL’s (Domain Speciﬁc Languages) abstract so many complexities.
+○
+Easy to read & learn (few ways how to do something)
+○
+JSON-RPC (usable from all languages) and VLANG (for embedded development)
+Ultimate Scale
+○
+We want to be able to grow to hundreds of millions of users, a true scaleout system is needed.
+○
+Our smart contract for IT allows deployment of any web 2,3 and 3BOT workload everywhere.
+Ultimate Sovereignity
+○
+Governments want all data in country, they want their independence.
+Possible Antidote for the Cyber Pandemic
+○
+3BOT + WEB3 + 3NODES is a good architecture with better security build in.
+○
+Add on: browser virtualization technology from 3BOT (run no javascript in existing browsers)
+No Painkiller Approach (resolve the root of the problem)
+○
+Today they have too many systems and it's too complex, expansive and not secure.
+
+your digital experiences
+true decentralized alternatives can easily
+be created to zoom, whatsapp, facebook, google , …
+
+3BOT
+
+Direct Communication
+Private, Efﬁcient, Secure (end2end encrypted)
+
+Quantum Safe Storage
+
+3BOT
+
+Quantum Safe Storage
+any blockchain
+technology
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+3Node
+
+Compute Storage
+Network
+
+Compute Storage
+Network
+
+Compute Storage
+Network
+
+Compute Storage
+Network
+
+Compute Storage
+Network
+
+Compute Storage
+Network
+
+Compute Storage
+Network
+
+Compute Storage
+Network
+
+Browser
+Firewall
+
+Quantum Safe
+Storage System
+100% private
+Per Instance
+Storage
+Distributed over
+Multiple 3Nodes
+
+3BOT
+EXPERIENCES
+NOT APPS
+your full digital life
+100% owned by
+you
+
+ANY EXISTING
+WEB
+FRAMEWORK
+CAN BE USED
+TO CREATE THE
+EXPERIENCES
+
+PEER2PEER
+ENCRYPTED
+COMMUNICATION
+
+QUANTUM SAFE STORAGE ARCHITECTURE
+
++
+
+ANY APP
+PROTOCOL
+
+OT
+B
+3
+
+QS FILESYSTEM
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Safe & Fast
+Hacker Proof
+Ultra Reliable
+Low Overhead
+Ultra Scalable
+Self Healing = recovers service automatically in the event of
+outage with no human intervention
+Searchable & Auditable
+Quantum safe, even a quantum computer cannot decrypt
+
+QUANTUM
+SAFE
+STORAGE
+ENGINE
+
+METASTOR
++
+CACHE
+
+Can be used as
+- archive system
+- IPFS backend storage system
+- personal ﬁle stor
+- CDN = content delivery
+
+E
+
+OD
+
+3N
+
+E
+
+OD
+
+3N
+
+EXTRA
+
+ZERO-OS: A LIGHTWEIGHT STATELESS SECURE OPERATING SYSTEM
+Core-0
+First process launched on the Zero-OS.
+This process kicks off all activities on the
+node and allows the full OS to be booted
+over the network maintaining full
+integrity and hacking surfaces.
+
+Hardware Node
+All nodes are based on Intel, AMD or
+ARM* based CPU’s. The peripheral
+hardware requires an amount of CPU
+cores, GB’s of memory and physical
+storage devices, ideally a mix of SSD and
+HDD storage.
+
+CORE-0
+
+Compute Primitives
+Storage Primitives
+Network Primitives
+
+Kernel
+Zero-OS uses the well known Linux
+kernel because it has device drivers for
+almost any hardware that exists (Intel /
+AMD processor types. TFTech
+customized the kernel: make it smaller
+and added secure boot elements.
+
+Linux Kernel
+
+3Node
+
+ZOS
+
+Z-Machine Storage Choices
+S
+Z-Machine
+Z-Kube
+
+Z-Mount = mount SSD Space
+
+VM Technology, with
+container capabilities
+
+Boot System For VM/Containers
+Based on Flists
+Quantum Safe FileSystem
+Safest Storage System Ever
+
+QUANTUM SAFE
+FILESYSTEM
+
+ZOS-FS
+deduped, cached flist based FS
+
+Files Downloaded
+From TF Grid
+
+ZOS-FS
+S
+Any Z-Machine
+
+Each ﬁle is cut in smaller block.
+Each block is ﬁngerprinted.
+Each block is deduped.
+
+VM Technology, with
+container capabilities,
+loads required files
+from ZOS_FS
+
+ZOS-FS will only serve ﬁles which are guaranteed and
+identiﬁed in Flist, this means hackers cannot change ﬁle.
+
+ZOS
+exposes ZOS-FS
+
+The blocks are cached on ZOS level.
+
+FLIST HUB
+
+Files Downloaded
+From TF Grid
+
+FLIST FileSystem
+FLISTS = represents a very efﬁcient way to
+distribute a de-duped container image with a
+bandwidth optimized transfer process and increased
+security by signed ﬁles.
+Contains only metadata, not the full blob.
+Downloading dramatically improves bandwidth
+usage and download time.
+Stored and made available on the ﬂy in the “hub”,
+i.e. http server serving static ﬁles.
+Up and running in seconds
+
+LOWER AMOUNT OF CONTEXT SWITCHES
+Use HW more efficiently.
+Context switching is the process of storing and restoring the execution state (context) of a process towards CPU.
+so that execution can be resumed from the same point at a later time...
+Each layer of abstraction involves multiple expensive user and kernel mode context switches
+Even a simple network interaction between 2 applications results easily in 100s of context switches
+
+Docker
+Container
+
+Docker
+Host (VM)
+
+User Mode
+
+Web App
+
+DB App
+Kernel Mode
+
+Network Layer
+Storage Layer
+Network (VM)
+File System
+Volume Driver (KVM)
+File System (OS)
+
+...
+
+Volume Driver (VM)
+Volume Driver (KVM)
+File System (OS)
+
+...
+
+File System (SDN)
+Volume Driver (SDN)
+
+...
+
+SDN
+Layer
+Host
+OS
+
+Network Layer
+Storage Layer
+Network (VM)
+File System
+
+100s of
+Expensive
+Context
+Switches
+
+Volume Driver (VM)
+
+⇒
+
+●
+●
+●
+●
+
+File System (SDN)
+Volume Driver (SDN)
+...
+
+ThreeFold Tech’s technology
+= a lot less abstraction layers.
+Loss of efﬁciency & performance:
+drives up the cost of scalability
+and management of technology
+layers
+
+IT SMART CONTRACT DEPLOYMENT
+Secure Veriﬁed Multi-signed Authenticated
+
+3-Node
+IT WORKLOADS ...
+
+COMPUTE
+Human/Machine Consensus
+
+STORAGE
+NETWORK
+
+CORE-0
+
+Zero-OS
+Is for our v3.x series.
+
+SMART CONTRACT LAYER
+Monitoring Info
+Progress Report
+
+P2P channels
+
+DEPLOY
+CO-OWNED
+SOLUTION
+
+CHANGE REQUEST
+VOTING
+TERRAFORM RECIPE +
+SIGNATURE + BILLING ACCOUNT
+
+PREPARATION STEP
+
+Verify
+Signatures
+Origin, ...
+TFGRID BLOCKCHAIN
+
+https://play.grid.tf/
+
+CONSENSUS DEPLOYED/OWNED
+Secure Veriﬁed Multisigned Authenticated
+Deployed Sovereign Where Users Are
+Group Wallet
+Fund the wallet
+Smart Contract IT
+
+After consensus the workload
+description is deployed
+
+Multi Signature
+Executor
+
+None of the signers have access to
+the deployed solution or data
+stored.
+
+COMPATIBLE WITH THE WORLD
+IAC = Infrastructure As Code
+IAC Frameworks
+
+3-Node
+CORE-0
+
+IAC DEVOP
+
+Virtual Machine Technology
+Docker Compatible
+
+Prometheus
+Monitoring
+
+Planetary Network
+or ZOS-NET
+QuantumSafe FS or
+ZOS-FS or ZOS-Mount
+Core-0
+TFChain Agent
+
+Zero-OS
+Is for our v3.x series.
+
+TFChain
+
+P2P channels
+over Reliable Message Bus
+
+Typescript, Vlang
+or Python Client
+TFGrid SDK
+
+IAC = INFRASTRUCTURE AS CODE
+DevOps is a process framework that ensures collaboration between Development and
+Operations Team to deploy code to production environment faster in a repeatable and
+automated way. ... In simple terms, DevOps can be deﬁned as an alignment between
+development and IT operations with better communication and collaboration.
+
+1. Cloud to deploy to selection:
+
+2. My decentralised identity
+
+3. My private overlay network
+
+4. My deployed application (here a VM)
+
+5. My output definition
+
+terraform {
+required_providers {
+grid = {
+source = "threefoldtech/grid"
+…..
+provider "grid" {
+mnemonics = "always borrow twenty negative call hundred ceiling leisure sunset enact feel frown"
+network = "test"
+}
+resource "grid_network" "net1" {
+nodes = [8, 5]
+ip_range = "10.1.0.0/16"
+name = "network"
+description = "newer network"
+add_wg_access = true
+}
+resource "grid_deployment" "d1" {
+node = 8
+network_name = grid_network.net1.name
+ip_range = lookup(grid_network.net1.nodes_ip_range, 8, "")
+vms {
+name = "vm1"
+flist = "https://hub.grid.tf/tf-official-apps/base:latest.flist"
+cpu = 1
+# publicip = true
+memory = 1024
+entrypoint = "/sbin/zinit init"
+env_vars = {
+SSH_KEY ="ssh-rsa AAAAB3Nza…<<part_deleted>>.7M6DFV john@RescuedMac"
+}
+}
+output "wg_config" {
+value = grid_network.net1.access_wg_config
+}
+output "node1_vm1_ip" {
+value = grid_deployment.d1.vms[0].ip
+output "public_ip" {
+value = grid_deployment.d1.vms[0].computedip
+
+https://threefoldfoundation.gith
+ub.io/books/technology/technol
+ogy/primitives/primitives.html
+
+VLANG/JAVASCRIPT SDK/CLIENT
+EASY TO USE CLIENTS
+TO BE USED IN WEBSITES
+SERVERS …
+
+TFDAO
+TFCHAIN
+
+●
+●
+
+CREATE YOUR OWN SOLUTIONS
+100% FLEXIBILITY
+
+●
+●
+●
+●
+
+Reliable Message Bus
+Blockchain Integration
+Private Key Secure Storage
+…
+
+●
+
+https://library.threefold.me/info/manual/#/manual3_iac/g
+rid3_javascript/grid3_javascript_home
+
+IAC = INFRASTRUCTURE AS CODE
+ANY APP WHICH RUNS ON LINUX
+CAN RUN ON THE THREEFOLD GRID
+
+TFDAO
+TFCHAIN
+
+●
+●
+●
+
+Compatible with any linux app.
+Support for all major platforms
+Incredibly ﬂexible
+
+https://library.threefold.me/info/t
+hreefold/#/cloudcompare/cloud_
+compare_home
+
+PLANETARY NETWORK
+GLOBAL PEER2PEER NETWORK
+Structure :
+
+●
+●
+●
+
+●
+
+Overlay network which lives on top of the existing internet or other peer2peer
+networks created.
+In a network, everyone is connected to everyone.
+End-to-end encryption between users of an app and the app running
+behind the network wall. Each user end network point = strongly
+authenticated & uniquely identiﬁed independent of network carrier used.
+No need for centralized ﬁrewall or vpn solutions, this is circle based
+networking security.
+
+Beneﬁts :
+●
+Finds shortest possible paths between peers
+●
+Full security through end-to-end encrypted
+●
+Allows for peer2peer links like meshed wireless
+●
+Can survive broken internet links and re-route when needed
+●
+Resolves the shortage of IPV4 addresses
+
+PLANETARY NETWORK
+TRADITIONAL
+End-to-end encryption for all traffic across the network
+Always look for shortest path, can route over multiple nodes
+A permanent unique IP address linked to your private encryption key
+Node is aware of its relative location to other nodes
+IP address remains with the device even if moved
+Topology extends gracefully across different mediums, i.e. mesh
+Blockchain Based Bandwidth Usage Billing (farmers, users)
+Ability to integrate with naming service on a blockchain
+Can be used to connect IT workloads in ultra reliable, global and secure
+way independent of physical network topology and medium.
+
+THREEFOLD
+
+PLANETARY NETWORK
+A true peer2peer mesh
+-
+
+-
+
+Looks for shortest path
+Re-routes if issue.
+Can hop over nodes.
+Safe (100% encrypted)
+Works with peer2peer wireless links as well
+as over existing ISP links (ﬁber, ADSL, 4G,
+5G…)
+Works over IPv4, IPv6, …
+Multiple links per Zero-OS supported
+
+Zero-OS
+Node 1
+OVERLAY
+ROUTER ENGINE
+
+OVERLAY
+ROUTER ENGINE
+
+IPv4 or
+IPv6
+ZOS Node
+
+Peer2Peer Economy
+
+Zero-OS
+Node 2
+
+-
+
+OVERLAY
+ROUTER ENGINE
+
+Network farmers (get TFT)
+Network users (use TFT)
+
+Zero-OS
+Node 3
+
+Zero-OS
+Node 4
+OVERLAY
+ROUTER ENGINE
+
+Connect Everything, Everywhere with Everyone
+Using any Connection Technology (as long as it's IP based)
+
+100% REDUNDANCY & SELF HEALING POSSIBLE
+ZOS IN GERMANY
+Internet 1
+Germany
+
+ZOS IN CH
+
+DNS2
+
+ZMachine
+
+End users can enter
+In each GW get to same Service.
+In case of 1 GW down
+DNS will send to other GW.
+
+Executor
+Web GW
+
+MongoDB
+Cluster
+
+Z-NET
+
+ZOS IN SA
+
+ZMachine
+ZMachine
+ZOS Node
+
+Internet 2
+Belgium
+
+DNS1
+
+ZOS In BE
+Executor
+Web GW
+
+ZMachine
+
+EXAMPLE CLASSIC DISTRIBUTED STORAGE
+400% Overhead + 5x Bandwidth
+Requirements
+= abcdefghijk (16 blocks)
+
+-
+
+Reliable: allow any 4 nodes to be unavailable
+Data Privacy
+
+Solution
+-
+
+Reliable: make 4 copies
+Data Privacy: encrypt
+
+Disadvantages
+
+4 copies + original
+400% overhead
+
+-
+
+400% overhead because of 4 copies
+5x bandwidth required to store on multiple locations
+Hacker only needs to have 1 copy = 1 location
+
+= abcdefghijk (16 blocks)
+
+THREEFOLD QUANTUM SAFE STORAGE SYSTEM
+10x more efficient
+
+How to visualize?
+a+2b+c+d+e+f+g+h+i+j+k = 100
+a-3b-c+d+e+f+g+h+i+j+k = 4
+-a+b-4c+d+e+f+g+h+i+j+k = -8
+… do this 20 times. Now remember these equations.
+16 equations of the 20 allow you to calculate back the original.
+Super Efﬁcient: only 20% overhead
+= 20x less overhead compared to classic systems
+Efﬁcient: Order of retrieval does not matter
+Hacker proof: hacker needs to be on 16 locations
+physically + have encryption key before possible
+to reconstruct.
+
+QUANTUM
+SAFE
+STORAGE
+ENGINE
+
+Safe & Fast
+Hacker Proof
+Ultra Reliable
+Low Overhead
+Ultra Scalable
+Self Healing
+
+VLANG: THREEFOLDS OWN DEVELOPMENT LANGUAGE
+
+●
+●
+●
+
+V is an open source project that is well regarded by the community.
+30K stars on Github, compared to 100K for Golang
+V is the language we use for
+production for TFGrid 4.0
+○
+○
+○
+○
+○
+
+●
+
+Digital Twin DSL’s (Domain Speciﬁc Language)
+Smart Contract Language inside the Twin
+SAL Layer (System Abstraction Layer) for blockchains, provisioning, tools, …
+Executor Language (scalable very fast serverless functions)
+Quantum Safe DB Stored Procedures
+
+V is secure, very simple to learn and use and provides
+very effective and fast compilation
+
+
