@@ -1,11 +1,21 @@
 import openai
 import os
-from pprint import pprint; import IPython; 
+from pprint import pprint; import IPython
 from langchain.llms import OpenAI
 from langchain.chat_models import ChatOpenAI
 from langchain.cache import SQLiteCache
 
 import langchain
+
+def read_text_files(directory_path):
+    files_text = []
+    
+    for filename in os.listdir(directory_path):
+        if filename.endswith(".txt"):
+            with open(os.path.join(directory_path, filename), "r") as file:
+                files_text.append(file.read())
+    
+    return files_text
 
 def text_to_ascii(input_text:str) -> str:
     ascii_text = ''

@@ -20,7 +20,7 @@ from llama_index.agent import OpenAIAgent
 
 
 
-tool_spec = GoogleSearchToolSpec(key="AIzaSyBymYdbUAYQ0oO66C8hUNZ9N_cj3G5SbcE", engine="47c5fbc1550aa447c")
+tool_spec = GoogleSearchToolSpec() # TODO: google search keys belong here
 pprint(tool_spec.google_search("weather today"))
 agent = OpenAIAgent.from_tools(tool_spec.to_tool_list())
 

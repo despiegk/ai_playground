@@ -35,16 +35,29 @@ Use above defined language constructs to translate the following json example to
 As result only output the V code generated, do not explain what you do and why.
 Do not generate default values. Only generate json:... alias if the property name is different.
 
+
+our purpose is the get a json as input and generate a struct which corresponds with the json
+
+comments are possible as part of the json and are defined per line and are starting with //
+
+comments which start with //is_enumerator, descript metadata for the Enumerator
+
+e.g.
+
+```
+"priority_type":"immediate" //is_enumerator, types are  urgent,later,now,immediate
+```
+
+would mean priority_type is an enum and there are urgent,later,now,immediate
+
+
+generate the v struct for
+
 {
-  "id": "chatcmpl-123",
-  "object": "chat.completion",
-  "createdOld": 1677652288,
+  "id": "myid1",
+  "created": 1677652288,
   "nr": 2
-  "usage_enum": {
-    "prompt_tokens": 9,
-    "completion_tokens": 12,
-    "total_tokens": 21
-  }
+  "priority_type":"immediate" //is_enumerator, other types are  urgent,later,now
   "complex_sub":{
     "loc": "locationa",
     "nr": 10.1,    
