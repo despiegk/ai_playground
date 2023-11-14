@@ -4,6 +4,9 @@ from pprint import pprint; import IPython
 from langchain.llms import OpenAI
 from langchain.chat_models import ChatOpenAI
 from langchain.cache import SQLiteCache
+from langchain.globals import set_llm_cache
+from langchain.cache import SQLiteCache
+set_llm_cache(SQLiteCache(database_path="/tmp/langchain.db"))
 
 import langchain
 
@@ -36,8 +39,6 @@ openai.api_key = api_key
 llm = OpenAI(openai_api_key=api_key)
 chat_model = ChatOpenAI(openai_api_key=api_key)
 
-
-langchain.llm_cache = SQLiteCache(database_path=".langchain.db")
 
 llm.predict("Tell me a joke")
 llm.predict("Tell me a joke")

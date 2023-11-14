@@ -4,6 +4,7 @@ import gradio as gr
 from pprint import pprint; import IPython
 import sys
 import os
+import llama_hub
 from pathlib import Path
 
 # Check if the environment variable exists

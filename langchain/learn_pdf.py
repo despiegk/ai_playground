@@ -12,18 +12,25 @@ if "OPENAIKEY" in os.environ:
     api_key = os.environ["OPENAIKEY"]
 else:
     raise ValueError("Please set the OPENAIKEY environment variable")
-os.environ["OPENAI_API_KEY"] = api_key
+os.environ["OPENAI_API_KEY"] = api_key  
 
 from llama_index import VectorStoreIndex, download_loader
+from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader
+
+documents = SimpleDirectoryReader('/Users/despiegk1/Downloads/ai').load_data()
+index = GPTVectorStoreIndex.from_documents(documents)
+index.storage_context.persist()
+
+query_engine = index.as_query_engine()
+query_engine.query("what is ourworld?")
+
+# ImageReader = download_loader("ImageReader")
+# imageLoader = ImageReader(text_type="plain_text")
+# FlatPdfReader = download_loader("FlatPdfReader")
+# pdfLoader = FlatPdfReader(image_loader=imageLoader)
 
 
-
-ImageReader = download_loader("ImageReader")
-imageLoader = ImageReader(text_type="plain_text")
-FlatPdfReader = download_loader("FlatPdfReader")
-pdfLoader = FlatPdfReader(image_loader=imageLoader)
-
-document = pdfLoader.load_data(file=Path('/Users/despiegk/Downloads/Threefold_tech_architecture_may2023_v1.2.pdf'))
+# document = pdfLoader.load_data(file=Path('~/Downloads/its not about what we have, its about what we believe in. (5).pdf'))
 
 # index = VectorStoreIndex.from_documents([document])
 

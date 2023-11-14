@@ -16,8 +16,11 @@ pub mut:
 	id      string = "11"
 	object  string
 	created int64
-    my_int  int
+  my_int  int
+  last_name string [json: lastName]
 }
+
+not the [json: lastName] to show how the source in json is different compared to property name last_name
 
 normal structs have pub mut as 2nd line, to define its public and mutable
 
@@ -59,6 +62,9 @@ Use above defined language constructs to translate the following json example to
 
 As result only output the V code generated, do not explain what you do and why.
 Do not generate default values. Only generate json:... alias if the property name is different.
+
+
+============= anoter example ===============
 
 
 generate the v struct for

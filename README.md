@@ -4,6 +4,28 @@ just some tests with AI tools
 
 - planning see https://github.com/users/despiegk/projects/4/views/2
 
+## getting started
+
+### for python
+
+```bash
+pip install pew
+```
+
+is the manager of virtual environments
+
+see installer in langchain, will populate it
+
+### to use it in visual studio
+
+- shift command p -> python create environment (select current dir)
+- select ~/.virtualenvs/ai/bin  (python binary is there too)
+
+
+
+
+~/.virtualenvs/ai
+
 ## contribution 
 
 Through VIAPrize  (https://www.viaprize.org/) we have rewards available for work as specified in this playground

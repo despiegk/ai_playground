@@ -20,7 +20,7 @@ from llama_index import VectorStoreIndex, download_loader
 MarkdownReader = download_loader("MarkdownReader")
 
 loader = MarkdownReader()
-documents = loader.load_data(file=Path('/Users/despiegk/code/github/despiegk/ai_playground/openai/readme.md'))
+documents = loader.load_data(file=Path('~/code/github/despiegk/ai_playground/openai/readme.md'))
 
 index = VectorStoreIndex.from_documents(documents)
 

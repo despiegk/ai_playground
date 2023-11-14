@@ -1,14 +1,14 @@
 set -ex
 
-export AIHOME=/Users/despiegk/.virtualenvs/ai
+export AIHOME=~/.virtualenvs/ai
 
 # rm -rf $AIHOME
 
 # pip3 install pew
 pew new ai -d 
 # pew in ai pip3 install langchain openai ipython wikipedia PyPDF2 PyCryptodome gradio gpt_index
-pew in ai pip3 install langchain openai ipython wikipedia PyPDF2 PyCryptodome gradio llama-index nltk
-
+pew in ai pip3 install langchain openai ipython wikipedia PyPDF2 PyCryptodome gradio llama-index nltk llama_hub protobuf pypdf
+pew in ai pip3 install mypy
 
 pushd $AIHOME
 
