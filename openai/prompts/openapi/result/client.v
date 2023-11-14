@@ -8,7 +8,7 @@ pub mut:
     id   i64
     name string
     tag  string
-}
+}q
 
 pub struct Pets {
 pub mut:
