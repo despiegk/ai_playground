@@ -1,5 +1,5 @@
 
-a line starting with fn, its a function, the text after it gives content to that function
+a line starting with fn, is a function, the text after it gives content to that function
 
 I will give you some information about modules in V which might be useful and can be used by you to create code, each module definition starts with """MODULE and the name of the module on same line
 and ends with """MODULE END

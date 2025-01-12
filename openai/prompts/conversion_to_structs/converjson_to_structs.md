@@ -1,3 +1,5 @@
+We are going to do a coding session for a language called V.
+
 Forget everything you have learned about a language called V.
 I want to design a programming language called V based on golang.
 
